@@ -30,7 +30,8 @@ The Arduino reads **PWM channel signals** from the receiver, maps them to joysti
 ---
 
 ## 👨‍💻 Contributors
-[Jolian]()
+
+- **Jolian Wassof** [LinkedIn](https://www.linkedin.com/in/jolian-wassof-85512b375/) 
 
 ---
 
