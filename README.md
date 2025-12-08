@@ -1,7 +1,11 @@
 # 🛩️ Drone-Simulator
 
-This project allows you to use a **FlySky drone transmitter** inside **Liftoff Drone Simulator** by reading receiver signals through an **Arduino Uno** and converting them into usable game controls.  
-A practical setup for learning real drone handling—minus the broken propellers. ✨
+<img src="images/1.png" alt="project">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
 
 ---
 
